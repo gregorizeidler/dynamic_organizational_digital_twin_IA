@@ -244,25 +244,15 @@ stateDiagram-v2
     Stagnation --> Growth : Policy Changes (40% chance)
     Stagnation --> Recession : Continued Decline (30% chance)
     
-    Growth : GDP Growth: 2-4%
-    Growth : Unemployment: 3-6%
-    Growth : Tech Sector: 70-90%
+    Growth : GDP Growth 2-4%<br/>Unemployment 3-6%<br/>Tech Sector 70-90%
     
-    Boom : GDP Growth: 4-7%
-    Boom : Unemployment: 2-4%
-    Boom : Tech Sector: 80-100%
+    Boom : GDP Growth 4-7%<br/>Unemployment 2-4%<br/>Tech Sector 80-100%
     
-    Recession : GDP Growth: -3-1%
-    Recession : Unemployment: 6-12%
-    Recession : Tech Sector: 30-60%
+    Recession : GDP Growth -3-1%<br/>Unemployment 6-12%<br/>Tech Sector 30-60%
     
-    Recovery : GDP Growth: 1-3%
-    Recovery : Unemployment: 5-8%
-    Recovery : Tech Sector: 60-80%
+    Recovery : GDP Growth 1-3%<br/>Unemployment 5-8%<br/>Tech Sector 60-80%
     
-    Stagnation : GDP Growth: -1-1%
-    Stagnation : Unemployment: 5-7%
-    Stagnation : Tech Sector: 50-70%
+    Stagnation : GDP Growth -1-1%<br/>Unemployment 5-7%<br/>Tech Sector 50-70%
 ```
 
 ## 🔄 Operational Workflows
