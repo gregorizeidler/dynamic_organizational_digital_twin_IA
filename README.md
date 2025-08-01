@@ -589,12 +589,6 @@ pytest tests/
 pytest tests/ --cov=src/  # With coverage
 ```
 
-## 📞 Support
-
-- **Documentation**: [Full Documentation](docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-org/organizational-digital-twin/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/organizational-digital-twin/discussions)
-- **Email**: support@organizational-twin.com
 
 ## 📄 License
 
@@ -607,7 +601,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for inspiration and tools
 
 ---
-
-**Built with ❤️ for the future of organizational intelligence**
 
 *Transform your organization's decision-making with AI-powered simulation* 
